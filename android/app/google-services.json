@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "251553304452",
+    "project_id": "socios-zd1338",
+    "storage_bucket": "socios-zd1338.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:251553304452:android:285a2297a29943cd1257d1",
+        "android_client_info": {
+          "package_name": "com.flutterflow.sniffsocial"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACLGsY__KIZm_ab2qnt4PUQw-KWz3JEGA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
